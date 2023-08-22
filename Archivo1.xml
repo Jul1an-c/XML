@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Recetas>
+
+	<Pastel1>
+	  <Nombre>Pastel de Chocolate</Nombre>
+	  <Ingredientes>
+		<Ingrediente>200g de chocolate negro</Ingrediente>
+		<Ingrediente>150g de mantequilla</Ingrediente>
+		<Ingrediente>150g de azúcar</Ingrediente>
+		<Ingrediente>4 huevos</Ingrediente>
+		<Ingrediente>200g de harina</Ingrediente>
+	  </Ingredientes>
+	  <Instrucciones>
+		<Instruccion>1. Precalentar el horno a 180°C.</Instruccion>
+		<Instruccion>2. Derretir el chocolate y la mantequilla juntos.</Instruccion>
+		<Instruccion>3. Batir los huevos con el azúcar y agregar la mezcla de chocolate.</Instruccion>
+		<Instruccion>4. Incorporar la harina y mezclar hasta obtener una masa homogénea.</Instruccion>
+		<Instruccion>5. Verter la mezcla en un molde y hornear durante 25-30 minutos.</Instruccion>
+	  </Instrucciones>
+	  <TiempoDeCoccion>30 minutos</TiempoDeCoccion>
+	  <NivelDeDificultad>Medio</NivelDeDificultad>
+	</Pastel1>
+	
+	<Pastel2>
+	  <Nombre>Pastel de Zanahoria</Nombre>
+	  <Ingredientes>
+		<Ingrediente>2 tazas de zanahorias ralladas</Ingrediente>
+		<Ingrediente>1 taza de nueces picadas</Ingrediente>
+		<Ingrediente>3 huevos</Ingrediente>
+		<Ingrediente>1 taza de aceite vegetal</Ingrediente>
+		<Ingrediente>2 tazas de azúcar</Ingrediente>
+		<Ingrediente>2 tazas de harina</Ingrediente>
+	  </Ingredientes>
+	  <Instrucciones>
+		<Instruccion>1. Precalentar el horno a 180°C.</Instruccion>
+		<Instruccion>2. Mezclar las zanahorias ralladas, las nueces, los huevos, el aceite y el azúcar.</Instruccion>
+		<Instruccion>3. Incorporar la harina y mezclar hasta que esté bien combinado.</Instruccion>
+		<Instruccion>4. Verter la mezcla en un molde y hornear durante 40-45 minutos.</Instruccion>
+	  </Instrucciones>
+	  <TiempoDeCoccion>45 minutos</TiempoDeCoccion>
+	  <NivelDeDificultad>Fácil</NivelDeDificultad>
+	</Pastel2>
+
+	<Pastel3>
+		<Nombre>Pastel de Vainilla</Nombre>
+		<Ingredientes>
+		  <Ingrediente>2 tazas de harina</Ingrediente>
+		  <Ingrediente>1 y 1/2 tazas de azúcar</Ingrediente>
+		  <Ingrediente>1 taza de leche</Ingrediente>
+		  <Ingrediente>1/2 taza de mantequilla derretida</Ingrediente>
+		  <Ingrediente>3 huevos</Ingrediente>
+		  <Ingrediente>1 cucharadita de esencia de vainilla</Ingrediente>
+		</Ingredientes>
+		<Instrucciones>
+		  <Instruccion>1. Precalentar el horno a 180°C.</Instruccion>
+		  <Instruccion>2. En un tazón grande, mezclar la harina y el azúcar.</Instruccion>
+		  <Instruccion>3. Agregar la leche, la mantequilla derretida, los huevos y la esencia de vainilla.</Instruccion>
+		  <Instruccion>4. Mezclar hasta obtener una masa suave y homogénea.</Instruccion>
+		  <Instruccion>5. Verter la mezcla en un molde y hornear durante 30-35 minutos.</Instruccion>
+		</Instrucciones>
+		<TiempoDeCoccion>35 minutos</TiempoDeCoccion>
+		<NivelDeDificultad>Fácil</NivelDeDificultad>
+	  </Pastel3>
+
+	  <Pastel4>
+		<Nombre>Pastel de Fresa</Nombre>
+		<Ingredientes>
+		  <Ingrediente>2 tazas de harina</Ingrediente>
+		  <Ingrediente>1 y 1/2 tazas de azúcar</Ingrediente>
+		  <Ingrediente>1 taza de fresas frescas trituradas</Ingrediente>
+		  <Ingrediente>1/2 taza de aceite vegetal</Ingrediente>
+		  <Ingrediente>3 huevos</Ingrediente>
+		  <Ingrediente>1 cucharadita de polvo de hornear</Ingrediente>
+		</Ingredientes>
+		<Instrucciones>
+		  <Instruccion>1. Precalentar el horno a 180°C.</Instruccion>
+		  <Instruccion>2. Mezclar la harina, el azúcar y el polvo de hornear en un tazón.</Instruccion>
+		  <Instruccion>3. Agregar las fresas trituradas, el aceite y los huevos.</Instruccion>
+		  <Instruccion>4. Mezclar hasta obtener una masa homogénea.</Instruccion>
+		  <Instruccion>5. Verter la mezcla en un molde y hornear durante 35-40 minutos.</Instruccion>
+		</Instrucciones>
+		<TiempoDeCoccion>40 minutos</TiempoDeCoccion>
+		<NivelDeDificultad>Intermedio</NivelDeDificultad>
+	  </Pastel4>
+	  
+	  <Pastel5>
+		<Nombre>Pastel de Limón</Nombre>
+		<Ingredientes>
+		  <Ingrediente>2 tazas de harina</Ingrediente>
+		  <Ingrediente>1 y 1/4 tazas de azúcar</Ingrediente>
+		  <Ingrediente>1/2 taza de jugo de limón</Ingrediente>
+		  <Ingrediente>1/2 taza de mantequilla derretida</Ingrediente>
+		  <Ingrediente>3 huevos</Ingrediente>
+		  <Ingrediente>1 cucharadita de ralladura de limón</Ingrediente>
+		</Ingredientes>
+		<Instrucciones>
+		  <Instruccion>1. Precalentar el horno a 180°C.</Instruccion>
+		  <Instruccion>2. En un tazón, mezclar la harina y el azúcar.</Instruccion>
+		  <Instruccion>3. Agregar el jugo de limón, la mantequilla derretida, los huevos y la ralladura de limón.</Instruccion>
+		  <Instruccion>4. Mezclar hasta obtener una masa suave.</Instruccion>
+		  <Instruccion>5. Verter la mezcla en un molde y hornear durante 30-35 minutos.</Instruccion>
+		</Instrucciones>
+		<TiempoDeCoccion>35 minutos</TiempoDeCoccion>
+		<NivelDeDificultad>Fácil</NivelDeDificultad>
+	  </Pastel5>  
+  </Recetas>
+
+
+  

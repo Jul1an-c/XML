@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TarjetasGraficas>
+
+    <TarjetaGrafica1>
+      <Fabricante>NVIDIA</Fabricante>
+      <Modelo>GeForce RTX 3080</Modelo>
+      <MemoriaVRAM>10 GB GDDR6X</MemoriaVRAM>
+      <ResolucionMaxima>7680 x 4320</ResolucionMaxima>
+      <PuertosDeConexion>HDMI, DisplayPort</PuertosDeConexion>
+    </TarjetaGrafica1>
+
+    <TarjetaGrafica2>
+        <Fabricante>AMD</Fabricante>
+        <Modelo>Radeon RX 6700 XT</Modelo>
+        <MemoriaVRAM>12 GB GDDR6</MemoriaVRAM>
+        <ResolucionMaxima>7680 x 4320</ResolucionMaxima>
+        <PuertosDeConexion>HDMI, DisplayPort</PuertosDeConexion>
+      </TarjetaGrafica2>
+      
+      <TarjetaGrafica3>
+        <Fabricante>NVIDIA</Fabricante>
+        <Modelo>GeForce GTX 1660 Ti</Modelo>
+        <MemoriaVRAM>6 GB GDDR6</MemoriaVRAM>
+        <ResolucionMaxima>7680 x 4320</ResolucionMaxima>
+        <PuertosDeConexion>HDMI, DisplayPort</PuertosDeConexion>
+      </TarjetaGrafica3>
+      
+      <TarjetaGrafica4>
+        <Fabricante>AMD</Fabricante>
+        <Modelo>Radeon RX 6800</Modelo>
+        <MemoriaVRAM>16 GB GDDR6</MemoriaVRAM>
+        <ResolucionMaxima>7680 x 4320</ResolucionMaxima>
+        <PuertosDeConexion>HDMI, DisplayPort</PuertosDeConexion>
+      </TarjetaGrafica4>
+
+
+        <TarjetaGrafica5>
+          <Fabricante>NVIDIA</Fabricante>
+          <Modelo>GeForce GTX 1050 Ti</Modelo>
+          <MemoriaVRAM>4 GB GDDR5</MemoriaVRAM>
+          <ResolucionMaxima>7680 x 4320</ResolucionMaxima>
+          <PuertosDeConexion>HDMI, DisplayPort, DVI</PuertosDeConexion>
+        </TarjetaGrafica5>
+
+  </TarjetasGraficas>

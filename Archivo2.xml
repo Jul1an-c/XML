@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Recetas>
+
+    <Ensalada1>
+        <Nombre>Ensalada César</Nombre>
+        <Ingredientes>
+          <Ingrediente>Lechuga romana</Ingrediente>
+          <Ingrediente>Crutones</Ingrediente>
+          <Ingrediente>Queso parmesano rallado</Ingrediente>
+          <Ingrediente>Pollo a la parrilla</Ingrediente>
+          <Ingrediente>Aderezo César</Ingrediente>
+        </Ingredientes>
+        <Instrucciones>
+          <Instruccion>1. Lavar y cortar la lechuga en trozos.</Instruccion>
+          <Instruccion>2. Cocinar el pollo a la parrilla y cortarlo en tiras.</Instruccion>
+          <Instruccion>3. Mezclar la lechuga, los crutones, el queso y el pollo en un tazón.</Instruccion>
+          <Instruccion>4. Agregar el aderezo César y mezclar bien.</Instruccion>
+        </Instrucciones>
+        <Calorias>350</Calorias>
+        <TipoDeEnsalada>Clásica</TipoDeEnsalada>
+      </Ensalada1>
+    
+      <Ensalada2>
+        <Nombre>Ensalada de Quinoa</Nombre>
+        <Ingredientes>
+          <Ingrediente>Quinoa cocida</Ingrediente>
+          <Ingrediente>Tomate cherry</Ingrediente>
+          <Ingrediente>Pepino</Ingrediente>
+          <Ingrediente>Pimiento rojo</Ingrediente>
+          <Ingrediente>Queso feta</Ingrediente>
+          <Ingrediente>Aderezo de limón y oliva</Ingrediente>
+        </Ingredientes>
+        <Instrucciones>
+          <Instruccion>1. Cocinar la quinoa según las instrucciones del paquete y dejar enfriar.</Instruccion>
+          <Instruccion>2. Cortar los tomates cherry, el pepino y el pimiento en trozos pequeños.</Instruccion>
+          <Instruccion>3. Mezclar la quinoa cocida, los vegetales y el queso feta en un tazón.</Instruccion>
+          <Instruccion>4. Agregar el aderezo de limón y oliva y mezclar bien.</Instruccion>
+        </Instrucciones>
+        <Calorias>280</Calorias>
+        <TipoDeEnsalada>Saludable</TipoDeEnsalada>
+      </Ensalada2>
+    
+      <Ensalada3>
+        <Nombre>Ensalada de Frutas</Nombre>
+        <Ingredientes>
+          <Ingrediente>Fresas</Ingrediente>
+          <Ingrediente>Uvas</Ingrediente>
+          <Ingrediente>Manzanas</Ingrediente>
+          <Ingrediente>Kiwi</Ingrediente>
+          <Ingrediente>Granola</Ingrediente>
+        </Ingredientes>
+        <Instrucciones>
+          <Instruccion>1. Lavar y cortar las frutas en trozos.</Instruccion>
+          <Instruccion>2. Mezclar las frutas en un tazón.</Instruccion>
+          <Instruccion>3. Espolvorear granola por encima para darle textura.</Instruccion>
+        </Instrucciones>
+        <Calorias>180</Calorias>
+        <TipoDeEnsalada>Refrescante</TipoDeEnsalada>
+      </Ensalada3>
+  
+    <Ensalada4>
+      <Nombre>Ensalada Griega</Nombre>
+      <Ingredientes>
+        <Ingrediente>Tomates</Ingrediente>
+        <Ingrediente>Pepino</Ingrediente>
+        <Ingrediente>Cebolla roja</Ingrediente>
+        <Ingrediente>Aceitunas Kalamata</Ingrediente>
+        <Ingrediente>Queso feta</Ingrediente>
+        <Ingrediente>Orégano</Ingrediente>
+        <Ingrediente>Aderezo de aceite de oliva y vinagre balsámico</Ingrediente>
+      </Ingredientes>
+      <Instrucciones>
+        <Instruccion>1. Cortar los tomates, el pepino y la cebolla en trozos.</Instruccion>
+        <Instruccion>2. Mezclar las verduras con las aceitunas y el queso feta.</Instruccion>
+        <Instruccion>3. Espolvorear orégano por encima.</Instruccion>
+        <Instruccion>4. Agregar el aderezo de aceite de oliva y vinagre balsámico y mezclar bien.</Instruccion>
+      </Instrucciones>
+      <Calorias>220</Calorias>
+      <TipoDeEnsalada>Internacional</TipoDeEnsalada>
+    </Ensalada4>
+  
+    <Ensalada5>
+      <Nombre>Ensalada de Atún</Nombre>
+      <Ingredientes>
+        <Ingrediente>Atún en lata</Ingrediente>
+        <Ingrediente>Lechuga iceberg</Ingrediente>
+        <Ingrediente>Maíz</Ingrediente>
+        <Ingrediente>Zanahoria rallada</Ingrediente>
+        <Ingrediente>Tomate</Ingrediente>
+        <Ingrediente>Aderezo de yogur y mostaza</Ingrediente>
+      </Ingredientes>
+      <Instrucciones>
+        <Instruccion>1. Escurrir el atún y desmenuzarlo.</Instruccion>
+        <Instruccion>2. Lavar y cortar la lechuga y el tomate.</Instruccion>
+        <Instruccion>3. Mezclar el atún, la lechuga, el maíz, la zanahoria y el tomate en un tazón.</Instruccion>
+        <Instruccion>4. Agregar el aderezo de yogur y mostaza y mezclar bien.</Instruccion>
+      </Instrucciones>
+      <Calorias>280</Calorias>
+      <TipoDeEnsalada>Proteica</TipoDeEnsalada>
+    </Ensalada5>
+  
+  </Recetas>
+
+
+
+  

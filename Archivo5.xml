@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Proyectos>
+    
+    <Proyecto1>
+        <Nombre>Proyecto A</Nombre>
+        <Objetivos>Desarrollar una aplicación móvil para la gestión de tareas.</Objetivos>
+        <Tecnologias>Flutter, Firebase</Tecnologias>
+        <MiembrosDelEquipo>Analista: Juan, Desarrollador: María, Diseñador: Carlos</MiembrosDelEquipo>
+        <FechaDeEntrega>2023-05-15</FechaDeEntrega>
+    </Proyecto1>
+
+    <Proyecto2>
+        <Nombre>Proyecto B</Nombre>
+        <Objetivos>Crear un sistema de reservas para un restaurante.</Objetivos>
+        <Tecnologias>React.js, Node.js, MongoDB</Tecnologias>
+        <MiembrosDelEquipo>Product Manager: Laura, Desarrollador: Andrés, QA: Marta</MiembrosDelEquipo>
+        <FechaDeEntrega>2023-08-30</FechaDeEntrega>
+    </Proyecto2>
+
+    <Proyecto3>
+        <Nombre>Proyecto C</Nombre>
+        <Objetivos>Desarrollar un software de contabilidad para pequeñas empresas.</Objetivos>
+        <Tecnologias>C#, ASP.NET Core, SQL Server</Tecnologias>
+        <MiembrosDelEquipo>Scrum Master: Ricardo, Desarrollador: Isabel, Analista: Pedro</MiembrosDelEquipo>
+        <FechaDeEntrega>2023-06-20</FechaDeEntrega>
+    </Proyecto3>
+
+    <Proyecto4>
+        <Nombre>Proyecto D</Nombre>
+        <Objetivos>Construir un sistema de seguimiento de proyectos.</Objetivos>
+        <Tecnologias>Java, Spring Boot, PostgreSQL</Tecnologias>
+        <MiembrosDelEquipo>Arquitecto: Luis, Desarrollador: Ana, Desarrollador: Javier</MiembrosDelEquipo>
+        <FechaDeEntrega>2023-07-10</FechaDeEntrega>
+    </Proyecto4>
+
+    <Proyecto5>
+        <Nombre>Proyecto E</Nombre>
+        <Objetivos>Desarrollar un juego en línea multijugador.</Objetivos>
+        <Tecnologias>Unity, Photon, C#</Tecnologias>
+        <MiembrosDelEquipo>Game Designer: Diego, Desarrollador: Carla, Artista: Sofía</MiembrosDelEquipo>
+        <FechaDeEntrega>2023-09-25</FechaDeEntrega>
+    </Proyecto5>
+
+</Proyectos>

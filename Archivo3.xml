@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Recetas>
+    <Sopa1>
+      <Nombre>Sopa de Tomate</Nombre>
+      <Ingredientes>
+        <Ingrediente>Tomates</Ingrediente>
+        <Ingrediente>Cebolla</Ingrediente>
+        <Ingrediente>Zanahoria</Ingrediente>
+        <Ingrediente>Caldo de vegetales</Ingrediente>
+        <Ingrediente>Albahaca fresca</Ingrediente>
+      </Ingredientes>
+      <Instrucciones>
+        <Instruccion>1. Pelar y picar los tomates, la cebolla y la zanahoria.</Instruccion>
+        <Instruccion>2. Cocinar las verduras en caldo de vegetales hasta que estén tiernas.</Instruccion>
+        <Instruccion>3. Usar una licuadora para mezclar las verduras cocidas hasta obtener una consistencia suave.</Instruccion>
+        <Instruccion>4. Agregar albahaca fresca picada y calentar la sopa nuevamente antes de servir.</Instruccion>
+      </Instrucciones>
+      <TiempoDePreparacion>40 minutos</TiempoDePreparacion>
+      <Sabor>Refrescante</Sabor>
+    </Sopa1>
+
+    <Sopa2>
+        <Nombre>Sopa de Lentejas</Nombre>
+        <Ingredientes>
+          <Ingrediente>Lentejas</Ingrediente>
+          <Ingrediente>Cebolla</Ingrediente>
+          <Ingrediente>Zanahoria</Ingrediente>
+          <Ingrediente>Apio</Ingrediente>
+          <Ingrediente>Caldo de verduras</Ingrediente>
+        </Ingredientes>
+        <Instrucciones>
+          <Instruccion>1. Lavar y escurrir las lentejas.</Instruccion>
+          <Instruccion>2. Picar la cebolla, la zanahoria y el apio.</Instruccion>
+          <Instruccion>3. Cocinar las verduras en caldo de verduras junto con las lentejas hasta que estén tiernas.</Instruccion>
+          <Instruccion>4. Usar una licuadora de mano para mezclar la sopa hasta obtener una consistencia suave.</Instruccion>
+        </Instrucciones>
+        <TiempoDePreparacion>45 minutos</TiempoDePreparacion>
+        <Sabor>Saludable</Sabor>
+      </Sopa2>
+    
+      <Sopa3>
+        <Nombre>Sopa de Pollo con Fideos</Nombre>
+        <Ingredientes>
+          <Ingrediente>Pollo</Ingrediente>
+          <Ingrediente>Fideos</Ingrediente>
+          <Ingrediente>Zanahoria</Ingrediente>
+          <Ingrediente>Apio</Ingrediente>
+          <Ingrediente>Caldo de pollo</Ingrediente>
+        </Ingredientes>
+        <Instrucciones>
+          <Instruccion>1. Cocinar el pollo en caldo de pollo hasta que esté cocido.</Instruccion>
+          <Instruccion>2. Retirar el pollo y desmenuzarlo.</Instruccion>
+          <Instruccion>3. Agregar los fideos, la zanahoria y el apio al caldo y cocinar hasta que estén tiernos.</Instruccion>
+          <Instruccion>4. Agregar el pollo desmenuzado antes de servir.</Instruccion>
+        </Instrucciones>
+        <TiempoDePreparacion>50 minutos</TiempoDePreparacion>
+        <Sabor>Clásico</Sabor>
+      </Sopa3>
+    
+      <Sopa4>
+        <Nombre>Sopa Minestrone</Nombre>
+        <Ingredientes>
+          <Ingrediente>Zanahoria</Ingrediente>
+          <Ingrediente>Apio</Ingrediente>
+          <Ingrediente>Cebolla</Ingrediente>
+          <Ingrediente>Tomates enlatados</Ingrediente>
+          <Ingrediente>Fideos cortos</Ingrediente>
+          <Ingrediente>Caldo de verduras</Ingrediente>
+        </Ingredientes>
+        <Instrucciones>
+          <Instruccion>1. Picar la zanahoria, el apio y la cebolla.</Instruccion>
+          <Instruccion>2. Cocinar las verduras en caldo de verduras hasta que estén tiernas.</Instruccion>
+          <Instruccion>3. Agregar los tomates enlatados y los fideos y cocinar hasta que los fideos estén cocidos.</Instruccion>
+        </Instrucciones>
+        <TiempoDePreparacion>55 minutos</TiempoDePreparacion>
+        <Sabor>Italiano</Sabor>
+      </Sopa4>
+
+      <Sopa5>
+        <Nombre>Sopa de Champiñones</Nombre>
+        <Ingredientes>
+          <Ingrediente>Champiñones</Ingrediente>
+          <Ingrediente>Cebolla</Ingrediente>
+          <Ingrediente>Ajo</Ingrediente>
+          <Ingrediente>Caldo de champiñones</Ingrediente>
+          <Ingrediente>Crema de leche</Ingrediente>
+          <Ingrediente>Tomillo fresco</Ingrediente>
+        </Ingredientes>
+        <Instrucciones>
+          <Instruccion>1. Picar la cebolla y el ajo.</Instruccion>
+          <Instruccion>2. Cocinar la cebolla y el ajo en un poco de aceite hasta que estén dorados.</Instruccion>
+          <Instruccion>3. Agregar los champiñones y cocinar hasta que estén tiernos.</Instruccion>
+          <Instruccion>4. Agregar el caldo de champiñones y dejar cocinar a fuego lento.</Instruccion>
+          <Instruccion>5. Usar una licuadora para mezclar la sopa hasta obtener una consistencia suave.</Instruccion>
+          <Instruccion>6. Agregar la crema de leche y el tomillo fresco antes de servir.</Instruccion>
+        </Instrucciones>
+        <TiempoDePreparacion>35 minutos</TiempoDePreparacion>
+        <Sabor>Cremoso</Sabor>
+      </Sopa5>
+      
+  </Recetas>
+  
